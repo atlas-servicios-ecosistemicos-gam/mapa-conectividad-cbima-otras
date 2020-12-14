@@ -1,5 +1,5 @@
 ---
-title: "Mapa de conectividad de grupos funcionales en otros hábitats en el Corredor Biológico Interurbano María Aguilar"
+title: "Mapa de conectividad de grupos funcionales de aves en otros hábitats en el Corredor Biológico Interurbano María Aguilar"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
